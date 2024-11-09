@@ -124,7 +124,7 @@ Licensed under the MIT License – see the LICENSE file for details.
 
 ## 📬 Questions?
 
-Reach out to us anytime at **helpdesk@domain.com**.
+Reach out to us anytime at **helpdesk@domain.com**
 
 ---
 
